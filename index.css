@@ -102,6 +102,10 @@
     font-weight: 100;
 }
 
+button {
+    cursor: pointer;
+}
+
 
 @media (max-width:375px) {
     .container {
